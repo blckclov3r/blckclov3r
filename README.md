@@ -1,11 +1,13 @@
-## blckclov3r.github.io
-## facebook.com/blckclov3r
+
 
 # Hey, I'm Aljun Abrenica ⚡
 
 ### Software Developer & Designer
 
 ## About Me
+https://blckclov3r.github.io <br/>
+https://facebook.com/blckclov3r <br/>
+
 I am a web developer from southeast Asia and a computer engineering graduate offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming, debugging code, designing interfaces, etc.
 
 Always seeking exciting projects having full energy and enthusiasm. Looking forward to a project discussion.
