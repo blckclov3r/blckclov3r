@@ -16,12 +16,12 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blckclov3r-informational)](https://twitter.com/blckclov3r)
 
 
-<code>I am a software developer & designer from southeast Asia and a computer engineering graduate offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming,
-debugging code, designing interfaces, etc.</code>
+I am a software developer & designer from southeast Asia and a computer engineering graduate offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming,
+debugging code, designing interfaces, etc.
 
-<code>Always seeking exciting projects having full energy and enthusiasm. Looking forward to a project discussion. </code>
+Always seeking exciting projects having full energy and enthusiasm. Looking forward to a project discussion.
 
-<code>Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Ajax, PHP, Java, Kotlin, Android, Arduino, C/C++, Affinity Photo, Affinity Designer, WordPress, Affinity Designer, Affinity Photo, Git, etc. </code>
+Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Ajax, PHP, Java, Kotlin, Android, Arduino, C/C++, Affinity Photo, Affinity Designer, WordPress, Affinity Designer, Affinity Photo, Git, etc.
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blckclov3r&&show_icons=true)](https://blckclov3r.github.io)
