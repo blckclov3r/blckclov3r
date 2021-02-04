@@ -21,8 +21,7 @@ debugging code, designing interfaces, etc.
 
 Always seeking exciting projects having full energy and enthusiasm. Looking forward to a project discussion.
 
-Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Ajax, PHP, Java, Kotlin, Android, Arduino, C/C++, Affinity Photo, Affinity Designer, WordPress, Affinity Designer, Affinity Photo, Git, etc.
-
+Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Ajax, PHP, Java, Kotlin, Android, Arduino, C/C++, Affinity Photo, Affinity Designer, & WordPress
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blckclov3r&&show_icons=true)](https://blckclov3r.github.io)
 
