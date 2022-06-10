@@ -16,7 +16,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blckclov3r-52A7E7)](https://twitter.com/blckclov3r)
 
 
-I am a software developer & designer from southeast Asia and a computer engineering graduate offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming,
+I am a software developer & engineer from southeast Asia and a computer engineering graduate offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming,
 debugging code, designing interfaces, etc.
 
 Always seeking exciting projects having full energy and enthusiasm. Looking forward to a project discussion.
