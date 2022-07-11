@@ -1,5 +1,3 @@
-
-
 # Hi there, I'm Engr. Aljun Abrenica ⚡
 
 ### Computer Engineer/Software Developer & Designer
@@ -23,3 +21,5 @@ Always seeking exciting projects having full energy and enthusiasm. Looking forw
 Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Ajax, PHP, Java, Kotlin, Android, Arduino, C/C++, Affinity Photo, Affinity Designer, ReactJS & WordPress
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blckclov3r&&show_icons=true)](https://blckclov3r.github.io)
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=blckclov3r/blckclov3r)
