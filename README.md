@@ -19,17 +19,22 @@ debugging code, designing interfaces, etc.***
 
 <h2 align="left" id="macropower-tech">💻Tech Stack</h2>
 <p align="center">
+   <br/>
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <br><br>
 </p>
 
 
-
+##
 
 Always seeking exciting projects having full energy and enthusiasm. Looking forward to a project discussion.
 
 Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Ajax, PHP, Java, Kotlin, Android, Arduino, C/C++, Affinity Photo, Affinity Designer, ReactJS & WordPress
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blckclov3r&&show_icons=true)](https://blckclov3r.github.io)
+<div align="center">
+
+##
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=blckclov3r/blckclov3r)
+</div>
