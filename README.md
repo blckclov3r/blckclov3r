@@ -14,13 +14,9 @@ debugging code, designing interfaces, etc.***
 
 
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/blckclov3r"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;Software%20Engineer;Fullstack%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=006699&vCenter=true&size=45%22"></a>
-</p>
-
-
-
-
+</div>
 
 
 
@@ -36,19 +32,16 @@ debugging code, designing interfaces, etc.***
   <img src="https://user-images.githubusercontent.com/43292234/179796796-7981daa3-f820-4c3b-a4ee-621a2798aa9e.gif" width="100">
   <img src="https://user-images.githubusercontent.com/43292234/179796798-ddb3b6b4-d6ba-4043-9058-6a550c47f055.gif" width="100">
   <img src="https://user-images.githubusercontent.com/43292234/179796802-6e14d467-4cf8-4894-b53e-b565d4e5372f.gif" width="190">
-</p>
+</div>
 
 
 ##
 
-Always seeking exciting projects having full energy and enthusiasm. Looking forward to a project discussion.
+<p>Always seeking exciting projects having full energy and enthusiasm. Looking forward to a project discussion.</p>
 
-Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Ajax, PHP, Java, Kotlin, Android, Arduino, C/C++, Affinity Photo, Affinity Designer, ReactJS & WordPress
+<p>Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Ajax, PHP, Java, Kotlin, Android, Arduino, C/C++, Affinity Photo, Affinity Designer, ReactJS & WordPress</p>
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blckclov3r&&show_icons=true)](https://blckclov3r.github.io)
-<div align="center">
 
-##
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=blckclov3r/blckclov3r)
-</div>
