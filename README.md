@@ -13,7 +13,7 @@ debugging code, designing interfaces, etc.***
 [![Instagram](https://img.shields.io/badge/Instagram-blckclov3r-A92BB0)](https://instagram.com/blckclov3r)
 
 <p align="center">
-  <a href="https://github.com/K-0817"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;Software%20Engineer;Fullstack%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/blckclov3r"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;Software%20Engineer;Fullstack%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h2 align="left" id="macropower-tech">💻Tech Stack</h2>
