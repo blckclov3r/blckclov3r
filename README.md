@@ -1,7 +1,7 @@
-# Hi there, I'm Engr. Aljun Abrenica 💻
+# Hi there, I'm Engr. Aljun Abrenica <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="50" />
 
-***I am a software developer, and engineer from southeast Asia offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming,
-debugging code, designing interfaces, etc.***
+<p>I am a software developer, and engineer from southeast Asia offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming,
+debugging code, designing interfaces, etc.</p>
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-blckclov3r-black)](https://github.com/blckclov3r)
