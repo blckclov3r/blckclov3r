@@ -20,18 +20,15 @@ debugging code, designing interfaces, etc.***
 
 
 
-
-
-
 <h2 align="left" id="macropower-tech">💻Tech Stack</h2>
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/43292234/179796781-dae1d1a3-93b0-4fbb-9f66-5fb71223ac8e.gif" width="9%">
-  <img src="https://user-images.githubusercontent.com/43292234/179796789-1ad78c94-6e24-43a3-80c3-8d91ada3c864.gif" width="9%">
-  <img src="https://user-images.githubusercontent.com/43292234/179796795-66b680c9-89db-4199-9fa7-336bc4aecd7b.gif" width="9%">
-  <img src="https://user-images.githubusercontent.com/43292234/179796796-7981daa3-f820-4c3b-a4ee-621a2798aa9e.gif" width="9%">
-  <img src="https://user-images.githubusercontent.com/43292234/179796798-ddb3b6b4-d6ba-4043-9058-6a550c47f055.gif" width="9%">
-  <img src="https://user-images.githubusercontent.com/43292234/179796802-6e14d467-4cf8-4894-b53e-b565d4e5372f.gif" width="18%">
+  <img src="https://user-images.githubusercontent.com/43292234/179796781-dae1d1a3-93b0-4fbb-9f66-5fb71223ac8e.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/43292234/179796789-1ad78c94-6e24-43a3-80c3-8d91ada3c864.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/43292234/179796795-66b680c9-89db-4199-9fa7-336bc4aecd7b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/43292234/179796796-7981daa3-f820-4c3b-a4ee-621a2798aa9e.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/43292234/179796798-ddb3b6b4-d6ba-4043-9058-6a550c47f055.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/43292234/179796802-6e14d467-4cf8-4894-b53e-b565d4e5372f.gif" width="190">
 </div>
 
 
@@ -40,7 +37,7 @@ debugging code, designing interfaces, etc.***
 <p>Always seeking exciting projects having full energy and enthusiasm. Looking forward to a project discussion.</p>
 
 <p>Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Ajax, PHP, Java, Kotlin, Android, Arduino, C/C++, Affinity Photo, Affinity Designer, ReactJS & WordPress</p>
-
+<br/>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blckclov3r&&show_icons=true)](https://blckclov3r.github.io)
 
